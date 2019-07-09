@@ -2,7 +2,13 @@
 
 Code and dataset of paper “Image-Based Aspect Ratio Selection” and "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?" accepted by IEEE TVCG.  
 
-And the BibTeX of our papers are as follows:  
+## Papers and Videos
+
+Please refer to the following website for our papers and videos: http://yunhaiwang.net/bankto45/RobustAspectRatios.html and http://yunhaiwang.net/infovis18/dbar/index.html.  
+
+## Citations
+
+The BibTex of our papers are as follows:  
 
 @article{image19wang,  
   author    = {Yunhai Wang and  
@@ -38,7 +44,7 @@ And the BibTeX of our papers are as follows:
   doi       = {10.1109/TVCG.2017.2787113}  
 }  
 
-Please refer to the following website for our dataset and the videos: http://yunhaiwang.net/bankto45/RobustAspectRatios.html and http://yunhaiwang.net/infovis18/dbar/index.html.  
+## Contact
 
 If you have any problem with the code or the dataset, please contact zywangx@gmail.com.
 
