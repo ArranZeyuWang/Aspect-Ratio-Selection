@@ -1,6 +1,6 @@
 # Aspect Ratio Selection
 
-Code and dataset of paper “Image-Based Aspect Ratio Selection” presented in IEEE InfoVis 2018 and "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?" accepted by IEEE TVCG 2018.  
+Code and dataset of paper “Image-Based Aspect Ratio Selection” accepted by IEEE InfoVis 2018 and "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?" accepted by IEEE TVCG 2018.  
 
 ## Papers and Videos
 
