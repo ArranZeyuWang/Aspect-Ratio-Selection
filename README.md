@@ -2,10 +2,6 @@
 
 Code and dataset of paper “Image-Based Aspect Ratio Selection” accepted by IEEE InfoVis 2018 and "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?" accepted by IEEE TVCG 2018.  
 
-## Papers and Videos
-
-Please refer to the following websites for our papers and videos: http://yunhaiwang.net/bankto45/RobustAspectRatios.html and http://yunhaiwang.net/infovis18/dbar/index.html.  
-
 ## Citations
 
 The BibTex of our papers are as follows:  
